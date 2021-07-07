@@ -228,7 +228,7 @@ Durante questo lab si esamineranno le funzionalità di base di Microsoft Dynamic
 
 1. Nella scheda **GENERA** selezionare **Fattura**.
 
-1. Nel riquadro azioni selezionare **Predefinito da:**.** Quantità entrata prodotti**.
+1. Nel riquadro azioni selezionare **Predefinito da: Quantità entrata prodotti**.
 
 1. Nel menu **Quantità predefinita per le righe** selezionare **Quantità ordinata** e quindi **OK**.
 

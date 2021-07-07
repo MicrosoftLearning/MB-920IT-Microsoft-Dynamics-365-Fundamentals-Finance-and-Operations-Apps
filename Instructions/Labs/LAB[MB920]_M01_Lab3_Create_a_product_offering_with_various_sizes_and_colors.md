@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 3: Creare un'offerta di prodotto con dimensioni e colori diversi'
+    title: 'Lab 3: Creare un’offerta di prodotto con dimensioni e colori diversi'
     module: 'Modulo 1: Concetti fondamentali su Microsoft Dynamics 365 Supply Chain Management'
 ---
 
