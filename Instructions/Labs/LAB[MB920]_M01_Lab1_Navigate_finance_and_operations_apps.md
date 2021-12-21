@@ -79,7 +79,7 @@ Le credenziali sono disponibili nel menu **Risorse** nell'angolo in alto a destr
 
 1. In **Configurazione** selezionare **Opzioni di prestazioni client**.
 
-1. Nel riquadro Opzioni di prestazioni client, in **Callout delle funzionalità attivati** selezionare l'interruttore e impostarlo su **Sì**.
+1. Nel riquadro Opzioni di prestazioni client, in **Callout delle funzionalità attivati** selezionare l'interruttore e assicurarsi che sia impostato su **Sì**.
 
 1. Esaminare le altre opzioni disponibili, scorrere verso la parte inferiore del riquadro e quindi selezionare **OK**.
 
