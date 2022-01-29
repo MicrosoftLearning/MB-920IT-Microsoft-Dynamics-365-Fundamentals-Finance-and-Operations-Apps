@@ -1,3 +1,12 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/MB-920T00A-Microsoft-Dynamics-365-Fundamentals-Finance-and-Operations-Apps.it-it) on 21 January 2022. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/MB-920T00A-Microsoft-Dynamics-365-Fundamentals-Finance-and-Operations-Apps.it-it).
+
 # INF99X: Corso di esempio
 
 - **[Scaricare il manuale per gli studenti e il contenuto AllFiles più recenti](../../releases/latest)**
